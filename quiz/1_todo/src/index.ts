@@ -16,7 +16,7 @@ function fetchTodos() {
   return todos;
 }
 
-function addTodo(todo) {
+function addTodo(todo): void {
   todoItems.push(todo);
 }
 
