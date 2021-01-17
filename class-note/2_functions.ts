@@ -14,3 +14,14 @@ function add(): number {
 function plus(a: number, b: number): number {
     return a + b;
 }
+
+plus(10, 20); // 30
+// plus(10, 20, 30, 40); 시 2개의 인수가 필요한데 4개를 가져왔다고 알려줌.
+
+// 함수의 옵셔널 파라미터(?)
+function log(a: string, b?: string) {
+
+}
+
+log('hello World');
+log('hello ts', 'abc');
