@@ -1,2 +1,3 @@
 # learn-typescript
-TypeScript연습을 목표로 기존에 TypeScript로 작성된 문서를 이해하고 활용할 수 있는것을 목표로 To-do-list를 만들며 배우는 Type-Script입니다.
+기존에 typescript로 작성된 문서를 해석하여 사용할 수 있도록 공부를 하기 위한 목표를 잡고 공부를 시작하였고,
+기존 문서를 typescript로 각각 형식을 넣어 typescript문서로 작성해봄.
